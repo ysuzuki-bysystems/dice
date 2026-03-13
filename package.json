@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.161",
+    "@types/node": "^25.5.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "aws-cdk": "^2.1111.0",
+    "aws-cdk-lib": "^2.243.0",
+    "openai": "^6.27.0"
+  }
+}
